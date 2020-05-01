@@ -28,4 +28,4 @@ $ factory(App\User::class, 50)->create()
 
 See the video tutorial
 
-[![Laravel SMS with Nexmo](https://img.youtube.com/vi/15WXlDO_F20/0.jpg)](https://www.youtube.com/watch?v=15WXlDO_F20) 
+[![](https://img.youtube.com/vi/15WXlDO_F20/0.jpg)](https://www.youtube.com/watch?v=15WXlDO_F20) 
